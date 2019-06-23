@@ -2,7 +2,7 @@
   "name": "pokedex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/NRKishanKumar/react-pokedex-1.git",
+  "homepage": "hhttps://nrkishankumar.github.com/react-pokedex-1",
   "dependencies": {
     "axios": "^0.19.0",
     "bootstrap": "^4.3.1",
