@@ -8,7 +8,7 @@ import Pokemon from "./components/pokemon/Pokemon";
 import backgroundImage from "./pattern.png";
 function App() {
   return (
-      <Router>
+      <Router basename='/'>
     <div className="App" style={{background: `url(${backgroundImage})`}}>
         <NavBar></NavBar>
         <div className="container">
